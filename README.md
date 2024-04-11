@@ -1,6 +1,6 @@
 # supri_categorias
 Script para categorização dos itens de descrição do COBES - SUPRI pmsp
-Para publicar o script no GitHub, um README adequado é essencial para explicar o propósito do script, como ele funciona e como outros podem usá-lo. Abaixo está um modelo de README que você pode adaptar para o seu projeto:
+Aqui há a explicação do propósito do script, como ele funciona e como outros podem usá-lo.
 
 ---
 
@@ -16,7 +16,7 @@ Este script Python automatiza a categorização de itens com base em suas descri
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.11
 - Módulo `re` (já incluído na instalação padrão do Python)
 
 ## Uso
